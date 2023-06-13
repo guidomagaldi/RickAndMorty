@@ -1,6 +1,6 @@
 iOS project developed with MVVM pattern and UIKit
 
-The project include:
+The project includes:
 
 * Launscreen
 * Search bar
