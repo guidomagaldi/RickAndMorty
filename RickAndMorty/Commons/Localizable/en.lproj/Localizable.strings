@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  RickAndMorty
+
+  Created by Guido Magaldi on 12/6/23.
+  
+*/
+// General App Strings
+"app_title" = "Rick And Morty";
